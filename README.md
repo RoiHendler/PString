@@ -5,8 +5,8 @@ First, the main function asks for the strings: the first pstring's length, the f
 
 Next, the user should enter an operation number from the following options:
 
-0 – Print the strings's sizes
-1 – Receive two characters and swap all appearances of the first character with the second character in both pstrings.
-2 – Receive two indexes and copy substring (from start index to end index) from the second pstring to the first one.
-3 – Swap between upper and lower cases in both pstrings.
-4 – Receive two indexes and make a lexicographical comparison between the char at the first index in the first pstring to the char at the second index in the second pstrings.
+- [x] 0 – Print the strings's sizes
+- [x] 1 – Receive two characters and swap all appearances of the first character with the second character in both pstrings.
+- [x] 2 – Receive two indexes and copy substring (from start index to end index) from the second pstring to the first one.
+- [x] 3 – Swap between upper and lower cases in both pstrings.
+- [x] 4 – Receive two indexes and make a lexicographical comparison between the char at the first index in the first pstring to the char at the second index in the second pstrings.
