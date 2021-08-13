@@ -1,4 +1,4 @@
-#  208728337   Roi Hendler
+
    .section .rodata
 str:   .string "func_select %d\n"
 str_invalid:   .string "invalid option!\n"
