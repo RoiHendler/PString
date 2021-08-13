@@ -1,4 +1,4 @@
-#  208728337   Roi Hendler
+
 .section .rodata
 
 str_invalid:   .string "invalid input!\n"
