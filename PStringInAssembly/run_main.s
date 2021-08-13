@@ -1,4 +1,4 @@
-#  208728337   Roi Hendler
+
   .section    .rodata #read only data section
 # str1:   .string "%d"
  str1:   .string "%hhu"
