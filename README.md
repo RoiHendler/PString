@@ -13,7 +13,7 @@ Next, the user should enter an operation number from the following options:
 
 ## The functionality implemented:
 - [x] `<char pstrlen(Pstring* pstr)>` - return pstring's sizes.
-- [x] `<Pstring* replaceChar(Pstring* pstr, char oldChar, char newChar)>` - replace all the oldChar with new char in the pstring
-- [x] `<Pstring* pstrijcpy(Pstring* dst, Pstring* src, char i, char j)>` - copy the chars in src[i:j] to dst[i:j]
-- [x] `<Pstring* swapCase(Pstring* pstr)>` - replace all lower case to upper case and the opposite.
-- [x] `<int pstrijcmp(Pstring* pstr1, Pstring* pstr2, char i, char j)>` - compare between src[i:j] to dst[i:j]
+- [x] `<Pstring* replaceChar(Pstring* pstr, char oldChar, char newChar)>` - replace all the old char with new char in the pstring.
+- [x] `<Pstring* pstrijcpy(Pstring* dst, Pstring* src, char i, char j)>` - copy the chars in src[i:j] to dst[i:j].
+- [x] `<Pstring* swapCase(Pstring* pstr)>` - Swap between upper and lower cases.
+- [x] `<int pstrijcmp(Pstring* pstr1, Pstring* pstr2, char i, char j)>` - compare between src[i:j] to dst[i:j].
